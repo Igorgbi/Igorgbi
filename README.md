@@ -96,7 +96,7 @@ Sistema de campanhas e tráfego pago para sellers do marketplace.
 ## 📞 Contato  
 
 📌 **LinkedIn:** [linkedin.com/in/igorcamposgbi/](https://www.linkedin.com/in/igorcamposgbi/)  
-📂 **GitHub:** [github.com/Igorgbj](https://github.com/Igorgbj)  
+📂 **GitHub:** [github.com/Igorgbi](https://github.com/Igorgbi)  
 📩 **E-mail:** igorgbi@gmail.com 
 
 🚀 **Aberto a novas oportunidades e colaborações.**  
