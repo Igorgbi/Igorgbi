@@ -93,16 +93,10 @@ Sistema de campanhas e tráfego pago para sellers do marketplace.
 
 ---
 
-## 📈 GitHub Stats  
-
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorgbj&show_icons=true&theme=dracula)  
-
----
-
 ## 📞 Contato  
 
 📌 **LinkedIn:** [linkedin.com/in/igorcamposgbi/](https://www.linkedin.com/in/igorcamposgbi/)  
 📂 **GitHub:** [github.com/Igorgbj](https://github.com/Igorgbj)  
-📩 **E-mail:** igor@email.com  
+📩 **E-mail:** igorgbi@gmail.com 
 
 🚀 **Aberto a novas oportunidades e colaborações.**  
